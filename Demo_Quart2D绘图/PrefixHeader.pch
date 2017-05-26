@@ -1,0 +1,14 @@
+//
+//  PrefixHeader.pch
+//  Demo_Quart2D绘图
+//
+//  Created by xbgph on 16/3/26.
+//  Copyright © 2016年 xbgph. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#define XBDrawViewRect CGRectMake(0, 64, self.view.bounds.size.width, self.view.bounds.size.height)
+
+#endif /* PrefixHeader_pch */

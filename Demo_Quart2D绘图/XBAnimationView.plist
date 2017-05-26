@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>画线</string>
+		<key>view</key>
+		<string>XBDrawLineView</string>
+		<key>rect</key>
+		<string>XBDrawLineViewRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>画方形</string>
+		<key>view</key>
+		<string>XBDrawSquareView</string>
+		<key>rect</key>
+		<string>XBDrawSquareViewRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>画圆</string>
+		<key>view</key>
+		<string>XBDrawEllipseView</string>
+		<key>rect</key>
+		<string>XBDrawEllipseViewRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>画曲线</string>
+		<key>view</key>
+		<string>XBDrawCurveView</string>
+		<key>rect</key>
+		<string>XBDrawCurveViewRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>文字</string>
+		<key>view</key>
+		<string>XBDrawTextView</string>
+		<key>rect</key>
+		<string>XBDrawTextViewRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>图片</string>
+		<key>view</key>
+		<string>XBDrawImage</string>
+		<key>rect</key>
+		<string>XBDrawImageRect</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>颜色</string>
+		<key>view</key>
+		<string>XBDrawColor</string>
+		<key>rect</key>
+		<string>XBDrawImageRect</string>
+	</dict>
+</array>
+</plist>
